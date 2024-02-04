@@ -55,7 +55,7 @@ function Hero() {
                 <div className="w-[100%]">
                     <img src={hero} alt=".." className='w-[100%] h-[380px] object-cover rounded-t-xl' />
                     <div className="w-full bg-[#3b3b3b] py-3 flex flex-col gap-y-1 px-4 rounded-b-xl">
-                        <h4 className='text-lg font-[500]'>Athena's Legacy</h4>
+                        <h4 className='text-lg font-[500] header'>Athena's Legacy</h4>
                         <div className="flex items-center gap-x-2">
                             <img src={user} alt="" className='w-[32px] h-[32px] rounded-full object-cover' />
                             <p className='text-sm'>CelestialWanderer</p>

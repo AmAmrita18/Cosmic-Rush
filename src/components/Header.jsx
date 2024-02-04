@@ -54,7 +54,7 @@ const Header = () => {
         </div>
         <div className="hidden md:flex items-center">
           <Link to={"#"} className='px-4 py-2 bg-violet-500 text-sm rounded-md'>
-              Join the rush
+              Join the Rush
           </Link>
         </div>
         <div className='md:hidden grid'>
@@ -80,7 +80,7 @@ const Header = () => {
                         ))
                       }
                       <Link to={"#"} className='w-[75%] mx-auto px-4 py-2 bg-violet-500 text-sm rounded-md'>
-                          Connect a wallet
+                          Join the Rush
                       </Link>
                     </div>
                   </div>
