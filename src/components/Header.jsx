@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import logo from '../assets/logo-2.png'
+import logo from '../assets/logo-1.png'
 import { Link, NavLink } from 'react-router-dom';
 import { HiOutlineMenuAlt3 } from 'react-icons/hi'
 
